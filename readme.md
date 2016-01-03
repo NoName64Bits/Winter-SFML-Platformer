@@ -4,8 +4,8 @@
   - constants may not contain any capital letter and if it's name is made out of few words, they will be split-up by underscores
   - classes always will have a header (.hpp or .h) and a main file (.cpp file)
 
-Today tasks:
-- [ ] Create a nice state screen (aka: ScreenManager) class (Main one)
+<h3>Today tasks:</h3>
+- [x] Create a nice state screen (aka: ScreenManager) class (Main one)
 - [ ] Look at some artwork from the designer
 - [ ] Plan ideas
 - [ ] Get a story made up
